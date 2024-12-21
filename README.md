@@ -1,2 +1,2 @@
-# Amazon-clone for college project
+# Amazon-clone for college projeect using HTML and CSS
 
