@@ -1,2 +1,2 @@
-# Amazon-clone
+# Amazon-clone for college project
 
